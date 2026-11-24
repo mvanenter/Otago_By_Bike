@@ -12,6 +12,10 @@ Rename the supplied HTML file to `index.html` and open it in a browser. The map 
 - Use **Follow the ride** for a moving camera and **View full network** for the overview.
 - Select a trail on the map or use **Test a link** to see what disconnects when that link is removed. Try the boat transfer between Doctors Point and Shingle Creek. Thicker links serve more node pairs whose only connection depends on that link.
 
+## Route preview
+
+[![Golden hills above Lake Dunstan](./images/Golden%20Hills%20Above%20Lake%20Dunstan.png)](./Otago_by_Bike.mp4)
+
 [Watch the 17-second route preview](./Otago_by_Bike.mp4)
 
 ## Distance and elevation
