@@ -1,7 +1,3 @@
-
-
-Uploading Otago_by_Bike.mp4…
-
 # Otago by Bike
 
 **30DayMapChallenge · Day 24 · Network**
