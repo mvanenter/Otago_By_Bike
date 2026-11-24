@@ -14,9 +14,9 @@ Rename the supplied HTML file to `index.html` and open it in a browser. The map 
 
 ## Route preview
 
-[![Golden hills above Lake Dunstan](./images/Golden%20Hills%20Above%20Lake%20Dunstan.png)](./Otago_by_Bike.mp4)
+[![Golden hills above Lake Dunstan](./images/Golden%20Hills%20Above%20Lake%20Dunstan.png)](https://mvanenter.github.io/Otago_By_Bike/Otago_by_Bike.mp4)
 
-[Watch the 17-second route preview](./Otago_by_Bike.mp4)
+[Watch the 17-second route preview](https://mvanenter.github.io/Otago_By_Bike/Otago_by_Bike.mp4)
 
 ## Distance and elevation
 
