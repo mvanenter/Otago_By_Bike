@@ -18,6 +18,8 @@ Rename the supplied HTML file to `index.html` and open it in a browser. The map 
 
 [Watch the 17-second route preview](https://mvanenter.github.io/Otago_By_Bike/Otago_by_Bike.mp4)
 
+[Download the route preview](https://raw.githubusercontent.com/mvanenter/Otago_By_Bike/main/Otago_by_Bike.mp4)
+
 ## Distance and elevation
 
 The mapped journey covers approximately **208.9 km by bike** and **11.8 km by boat**, with **about 1,760 m of modelled cycling ascent**.
